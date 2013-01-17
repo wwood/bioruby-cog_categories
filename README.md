@@ -2,7 +2,7 @@
 
 [![Build Status](https://secure.travis-ci.org/wwood/bioruby-cog_categories.png)](http://travis-ci.org/wwood/bioruby-cog_categories)
 
-A to Clusters of Orthologous Groups of proteins (COGs) functional categories i.e. this data:
+API to Clusters of Orthologous Groups of proteins (COGs) functional categories i.e. this data:
 ```
 INFORMATION STORAGE AND PROCESSING
  [J] Translation, ribosomal structure and biogenesis 
